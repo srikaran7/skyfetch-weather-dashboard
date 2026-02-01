@@ -1,3 +1,5 @@
+// SkyFetch Weather Dashboard - Part 1 API Integration
+
 const apiKey = "2fa498c835895b49fa03e9603feeb27b"; // Replace with your OpenWeatherMap API key
 const city = "London";
 
